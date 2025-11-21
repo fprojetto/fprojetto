@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**fprojetto/fprojetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Filippo Projetto! 👋
 
-Here are some ideas to get you started:
+Senior Software Engineer specializing in Go, Cloud Infrastructure, and Distributed Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I am currently relocating to Stockholm (EU Citizen) and open to new opportunities.
+
+## 👨‍💻 About Me
+
+I have 6+ years of experience building scalable, mission-critical backend systems for companies ranging from high-growth startups to fintech platforms processing payments for top-tier banks.
+
+My passion lies in System Design, Event-Driven Architecture, and Reliability Engineering. I thrive in collaborative environments where I can drive technical excellence and optimize infrastructure.
+
+🌍 Location: Turin, Italy (Relocating to Stockholm)
+
+🔭 Focus: Backend Development, Cloud Infrastructure (GCP/AWS), DevOps practices.
+
+🔗 LinkedIn: linkedin.com/in/filippo-projetto
+
